@@ -22,11 +22,13 @@ Ein einfacher YouTube Downloader mit grafischer Oberfläche (customtkinter) und 
 
 ✅ Fertig-Meldung erscheint kurz nach Abschluss
 
+
 ⚠️ Bekannte Probleme
 
 ❌ Einige URLs werfen HTTP 400 oder 403 → oft durch YouTube-API-Änderungen oder Netzwerkprobleme
 
 ⚡ Shorts oder gesperrte Videos funktionieren eventuell nicht
+
 
 💡 Verbesserungsvorschläge
 
