@@ -1,4 +1,4 @@
-📌 Beschreibung
+📌 Beschreibung:
 
 Ein einfacher YouTube Downloader mit grafischer Oberfläche (customtkinter) und Download-Funktion über pytube.
 
@@ -10,7 +10,7 @@ Ein einfacher YouTube Downloader mit grafischer Oberfläche (customtkinter) und 
 
 ⚠️ Hinweis: Manche Videos oder URLs können Fehler verursachen, insbesondere wenn pytube oder das Netzwerk Probleme hat.
 
-✨ Features
+✨ Features:
 
 🖱️ Einfache Eingabe der YouTube-URL
 
@@ -23,14 +23,14 @@ Ein einfacher YouTube Downloader mit grafischer Oberfläche (customtkinter) und 
 ✅ Fertig-Meldung erscheint kurz nach Abschluss
 
 
-⚠️ Bekannte Probleme
+⚠️ Bekannte Probleme:
 
 ❌ Einige URLs werfen HTTP 400 oder 403 → oft durch YouTube-API-Änderungen oder Netzwerkprobleme
 
 ⚡ Shorts oder gesperrte Videos funktionieren eventuell nicht
 
 
-💡 Verbesserungsvorschläge
+💡 Verbesserungsvorschläge:
 
 ❌ Sonderzeichen aus Videotitel entfernen, um Probleme mit Dateinamen zu vermeiden
 
